@@ -39,10 +39,10 @@ public class RedPacketService extends AccessibilityService {
     private String LAUCHER = "com.tencent.mm.ui.LauncherUI";
     private String LUCKEY_MONEY_DETAIL = "com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyDetailUI";
     private String LUCKEY_MONEY_RECEIVER = "com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyReceiveUI";
-    private String BACK_DETAIL = "com.tencent.mm:id/jb";
-    private String FIRST_ITEM = "com.tencent.mm:id/azj";
-    private String LIST_LUCK_MONEY_TEXT="com.tencent.mm:id/azn";
-    private String LIST_LUCK_MONEY_COUNT="com.tencent.mm:id/lu";
+    private String BACK_DETAIL = "com.tencent.mm:id/k4";
+    private String FIRST_ITEM = "com.tencent.mm:id/b4m";
+    private String LIST_LUCK_MONEY_TEXT="com.tencent.mm:id/b4q";
+    private String LIST_LUCK_MONEY_COUNT="com.tencent.mm:id/b4n";
     /**
      * 用于判断是否点击过红包了
      */
