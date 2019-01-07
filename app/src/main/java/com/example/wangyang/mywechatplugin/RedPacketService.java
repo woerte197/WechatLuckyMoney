@@ -16,6 +16,8 @@ import android.widget.Toast;
 
 import java.util.List;
 
+import static com.example.wangyang.mywechatplugin.MainActivity.isB;
+
 /**
  * Created by WangYang on 2019/1/3
  */
